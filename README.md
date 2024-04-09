@@ -1,5 +1,5 @@
 ---
-description: Create Terraform Modules locally
+description: Create Terraform Modules locally. In this repository, you will find a step-by-step guide on developing and using Terraform modules locally, ideal for environments where access to the Terraform Public Registry is restricted from organizational private networks. The guide covers everything from downloading modules from the Terraform Public Registry to creating and executing local modules in your own environment.
 ---
 # Develop Terraform Modules Locally
 
